@@ -1,3 +1,47 @@
-/* * {
-  border: 1px solid red;
-} */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  font-size: 1.6rem;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#name, #email, #number {
+  width: 35%;
+}
+
+.rowDiv {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.questionDiv {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  margin-right: 0.5%;
+  border: 1px red dashed;
+}
+
+.answerDiv {
+  display: inline-block;
+  text-align: left;
+  width: 40%;
+  margin-left: 0.5%;
+  border: 1px palegreen solid;
+}
