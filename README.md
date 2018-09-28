@@ -21,5 +21,5 @@
   * Inside the form element, I am presented with a button with `id="submit"` to submit all my inputs.
 * Stack:
   * HTML
-  * CSS
+  * CSS(Flexbox)
 * [Live preview](https://erol-fcc-survey-form.surge.sh/)
