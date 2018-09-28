@@ -1,6 +1,6 @@
 # Survey Form
 
-![Survey Form]()
+![Survey Form](https://github.com/erolaliyev/survey-form/blob/master/images/survey-form.png)
 
 * User stories:
   * I can see a title with `id="title"` in H1 sized text.
